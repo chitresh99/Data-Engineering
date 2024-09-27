@@ -1,0 +1,17 @@
+# Ignore MySQL data directory
+data/
+
+# Ignore log files
+*.log
+
+# Ignore configuration files with sensitive information
+config.ini
+*.cnf
+
+# Ignore any compressed files
+*.gz
+*.zip
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
